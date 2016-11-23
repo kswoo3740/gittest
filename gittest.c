@@ -6,7 +6,7 @@ int main () {
   for (i = 0; i < 100; i++) {
     printf ("Hansol bothered %d times\n", i);
   }
-  printf ("SangU killed himself\n");
-  printf ("Make conflict\n");
-  printf ("What the Hansol\n");
+  printf ("Sangu broken himself\n");
+  printf ("Make conflict1\n");
+  printf ("What the sangu\n");
 }
