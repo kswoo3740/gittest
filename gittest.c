@@ -7,4 +7,5 @@ int main () {
     printf ("Hansol bothered SangU %d times\n", i);
   }
   printf ("SangU killed Hansol\n");
+  printf ("Make conflict\n");
 }
