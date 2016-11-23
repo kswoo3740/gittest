@@ -8,4 +8,5 @@ int main () {
   }
   printf ("SangU killed Hansol\n");
   printf ("Make conflict\n");
+  printf ("What the Hansol\n");
 }
